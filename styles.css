@@ -1,0 +1,141 @@
+*{
+    background-color:#FAFAF9;
+}
+.star-div{
+    position:absolute;
+    top:100px;
+    
+  
+  
+    margin-left:60px;
+    
+}
+.star-div .star{
+    background-color: #FFD700;
+    border-radius: 50%;  
+    width: 45px;                   /* control star size */
+  height: 45px;
+}
+.container1 {
+    position:absolute;
+    top: 160px;
+    max-width:500px;
+    margin-left:60px;
+
+    
+}
+.container1 h1{
+    font-size:45px;
+    font-weight:900;
+}
+.container1 p{
+    font-size:20px;
+    color:#52525A;
+    line-height:1.5;
+    letter-spacing: 1px;
+}
+.container2 {
+    position:absolute;
+    top: 400px;
+    max-width:550px;
+   
+}
+.container2 p{
+    margin-left:60px;
+    display:flex;
+    font-size:16px;
+    color:#52525A;
+    line-height:2.3;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.google-testimonials h2{
+     background-color:white;
+    margin-left:40px;
+    position:absolute;
+    top:70px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+.google-testimonials p{
+ background-color:white;
+   position: absolute;
+   top:110px;
+   width:280px;
+   font-family: ;
+ font-size:20px;
+ color:rgb(131, 129, 129);
+ margin-left:40px;
+ margin-top:0;
+ 
+}
+.google-testimonials{
+    position:absolute;
+    width:360px;
+    height:180px;
+    padding: 16px;
+    background-color: white;
+    top:100px;
+    left:930px;
+    border-radius:10px;
+    
+
+}
+.meta-testimonials h2{
+    background-color:white;
+    margin-left:40px;
+    position:absolute;
+    top:70px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+} 
+.meta-testimonials p{
+   background-color:white;
+   position: absolute;
+   top:110px;
+   width:280px;
+ font-size:20px;
+ color:rgb(131, 129, 129);
+ margin-left:40px;
+ margin-bottom:30px;
+ margin-top:0;
+ 
+} 
+
+
+.meta-testimonials{
+    position:absolute;
+    padding: 20px;
+    width:360px;
+    height:180px;
+    background-color: white;
+    top:330px;
+    left:730px;
+    border-radius:10px;
+    
+}
+.logo-row {
+  display: flex;
+  align-items: center;   /* vertically center logo + stars */
+  gap: 12px;             /* space between Google logo and stars */
+  margin-bottom: 10px;
+  background-color:#fff;   /* space below row */
+}
+
+.google-logo {
+  height: 30px; 
+  background-color:white;         /* adjust as needed */
+}
+
+.stars {
+  display: flex;
+  gap: 4px;   
+  background-color:white;           /* space between each star */
+}
+
+.logo-star {
+  height: 20px;          /* star size */
+  width: 20px;
+}
