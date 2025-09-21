@@ -22,7 +22,7 @@
 
 ## Overview
 
-![screenshot](/Testimonial Page.png)
+![screenshot](Testimonial Page.png)
 
 
 
