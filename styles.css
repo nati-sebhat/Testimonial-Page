@@ -37,7 +37,7 @@
 .container2 {
     position:absolute;
     top: 400px;
-    max-width:550px;
+    width:550px;
    
 }
 .container2 p{
